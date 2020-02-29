@@ -2,11 +2,11 @@
 
 它是大事件项目的接口服务器。
 
-具体接口说明：https://github.com/fanyoufu/demo_bigevent_front/apidoc.md
+具体接口说明：
 
-大事件项目的前端代码地址：https://github.com/fanyoufu/demo_bigevent_front
+大事件项目的前端代码地址：
 
-大事件项目的前端在线预览地址：https://fanyoufu.github.io/demo_bigevent_front/web_front/index.html
+大事件项目的前端在线预览地址：
 
 ## 安装依赖
 
